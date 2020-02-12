@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>d2158037dbf2001054bccc3039961942</logo>
+        <menu/>
+        <name>Shopping List</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_443725_shopping</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Mobile shopping list</short_description>
+        <source>x_443725_shopping</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 19:50:36</sys_created_on>
+        <sys_id>ca158c33db76001054bccc30399619a4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-12 19:50:36</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Shopping Cart.png</file_name>
+        <hash>87f371a0525b7056b06af5a6bd9de802eb62a5151bcd7cb92b9627163fdbe1b5</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2682</size_bytes>
+        <size_compressed>2705</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 19:50:36</sys_created_on>
+        <sys_id>d2158037dbf2001054bccc3039961942</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-02-12 19:50:37</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>ca158c33db76001054bccc30399619a4</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Shopping Cart.png" sys_id="d2158037dbf2001054bccc3039961942">d2158037dbf2001054bccc3039961942</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 19:50:36</sys_created_on>
+        <sys_id>16158037dbf2001054bccc3039961942</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3596</length>
+        <position>1</position>
+        <sys_attachment display_value="Shopping Cart.png" sys_id="d2158037dbf2001054bccc3039961942">d2158037dbf2001054bccc3039961942</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 19:50:36</sys_created_on>
+        <sys_id>96158037dbf2001054bccc3039961942</sys_id>
+    </sys_attachment_doc>
+</record_update>
